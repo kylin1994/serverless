@@ -2,7 +2,7 @@
 
 ## CNCF Landscape
 
-![CNCF Serverless Landscape](/Users/xiangqilin/projects/serverless/img/Serverless-landscape.png)
+![CNCF Serverless Landscape](./img/Serverless-landscape.png)
 
 ## What is Serverless?
 
